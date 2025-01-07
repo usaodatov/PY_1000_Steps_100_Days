@@ -1,7 +1,7 @@
 Personal HackerRank Python Question Bank
 
 Purpose
-This repository is (a personal) a comprehensive collection of Python coding exercises, inspired by challenges on platforms like HackerRank. It is designed to:
+This repository is (my personal) a comprehensive collection of  Python coding exercises, inspired by challenges on platforms like HackerRank. It is designed to:
 - Help learners systematically improve their Python skills.
 - Serve as a resource for solving common programming problems.
 
